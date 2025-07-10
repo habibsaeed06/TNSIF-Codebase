@@ -1,4 +1,4 @@
-package com.tnsif.dayelevn.multiplecatchblockdemo;
+package com.tnsif.dayeleven.multiplecatchblockdemo;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

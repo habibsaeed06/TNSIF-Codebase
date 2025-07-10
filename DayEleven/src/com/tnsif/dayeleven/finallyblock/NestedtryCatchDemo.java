@@ -1,4 +1,4 @@
-package com.tnsif.dayelevn.finallyblock;
+package com.tnsif.dayeleven.finallyblock;
 
 public class NestedtryCatchDemo {
 

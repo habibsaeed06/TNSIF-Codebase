@@ -1,4 +1,4 @@
-package com.tnsif.dayelevn.trycatch;
+package com.tnsif.dayeleven.trycatch;
 
 public class TryCatchExample {
 
