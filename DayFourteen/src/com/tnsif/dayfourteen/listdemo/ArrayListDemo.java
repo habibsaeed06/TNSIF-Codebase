@@ -16,8 +16,8 @@ public class ArrayListDemo {
 		
 		list.add(10);
 		list.add(20);
-		list.add("Saeed");
-		list.add("Saeeddd");
+		list.add("Sakshi");
+		list.add("heti");
 		list.add(false);
 		list.add(true);
 		list.add(20);
